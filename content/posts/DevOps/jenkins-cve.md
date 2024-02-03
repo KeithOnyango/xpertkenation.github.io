@@ -1,24 +1,14 @@
 ---
 layout: post
-title: HTB-PlayCyberCTF
-date: 2024-01-30
-categories:
-  - Ctf
-tags:
-  - Linux
-  - Pwn
-  - "Patching"
-  - "Ret2libc"
-keywords:
-  - ""
-  - ""
-description: ""
-showFullContent: false
-images:
-  - /img/test.png
+title: "Latest Jenkins CVE in Your DevOps Pipeline"
+date: 2024-02-03
+categories: [DevOps]
+tags: [DevOps, Jenkins, CVE]
 ---
 
 # Addressing the Latest Jenkins CVE in Your DevOps Pipeline
+
+![images](/images/DevOps/jenkins-cve.png)
 
 ## Introduction
 
